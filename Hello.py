@@ -1,0 +1,1 @@
+print("This is an example for calling Python script from Jenkins")
